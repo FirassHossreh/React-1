@@ -1,0 +1,10 @@
+.parent-div{
+  display:flex;
+
+}
+.first-div{
+  width:50%;
+}
+.seconde-div{
+  width: 50%;
+}

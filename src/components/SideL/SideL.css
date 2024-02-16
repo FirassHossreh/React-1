@@ -1,0 +1,9 @@
+aside{
+    border : 5px solid rgb(4, 101, 101);
+    height: 400px;
+    width: 75%;
+    margin:auto;
+    margin-top:20px;
+    display:flex;
+    flex-wrap: wrap;
+}
